@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProgressBarDemo2.iml" filepath="$PROJECT_DIR$/ProgressBarDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberProgressBar.iml" filepath="$PROJECT_DIR$/NumberProgressBar.iml" />
+      <module fileurl="file://C:\Users\zhaoy\Desktop\NumberProgressBar\ProgressBarDemo2.iml" filepath="C:\Users\zhaoy\Desktop\NumberProgressBar\ProgressBarDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\zhaoy\Desktop\NumberProgressBar\app\app.iml" filepath="C:\Users\zhaoy\Desktop\NumberProgressBar\app\app.iml" />
     </modules>
   </component>
 </project>

@@ -17,16 +17,6 @@ public class MainActivity extends AppCompatActivity implements OnProgressBarList
     private NumberProgressBar mNumberProgressBar;
     private Timer mTimer;
 
-    /*private ProgressBar mPb_button;
-    private TextView mPb_textView;
-    private ImageView mPb_image;
-    private Handler mHandler = new Handler(){
-        @Override
-        public void handleMessage(Message msg) {
-            mPb_image.setBackground(getResources().getDrawable(R.drawable.girl));
-        }
-    };*/
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
